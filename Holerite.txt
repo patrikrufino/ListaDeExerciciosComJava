@@ -1,0 +1,6 @@
+Salário Bruto: 1650.000
+(-) IR: 82.50000
+(-) INSS: 165.0000
+FGTS: 181.50000
+Sindicato: 82.50000
+Salário Liquido: 1320.00000
